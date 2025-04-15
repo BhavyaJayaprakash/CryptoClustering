@@ -70,3 +70,18 @@ Color the graph points with the labels found using K-means.
 Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 Answer the following question:
 What is the impact of using fewer features to cluster the data using K-Means?
+
+![image](https://github.com/user-attachments/assets/7f03429c-84b4-4874-9fbb-fde32822679d)
+
+
+![Screenshot 2025-04-14 220456](https://github.com/user-attachments/assets/1a64d2e4-0de8-4ece-9609-4f82e44c32be)
+![Screenshot 2025-04-14 220507](https://github.com/user-attachments/assets/ce8c16d9-b274-4eab-b190-da09cc15adf5)
+
+![Screenshot 2025-04-14 220527](https://github.com/user-attachments/assets/3617a596-2b80-4894-84f5-7fe55ec5618f)
+
+![Screenshot 2025-04-14 220521](https://github.com/user-attachments/assets/18fa3303-e5ac-4864-a8dc-523a0bae1bd3)
+![Screenshot 2025-04-14 220544](https://github.com/user-attachments/assets/e7d36d38-cb7d-47cf-be32-9e4ea4794847)
+
+![Screenshot 2025-04-14 220642](https://github.com/user-attachments/assets/e9bcf1fc-f213-48fe-8a18-248656f9cc42)
+![Screenshot 2025-04-14 220605](https://github.com/user-attachments/assets/910a7894-55ff-418a-b5c3-b177683a6763)
+![Screenshot 2025-04-14 220623](https://github.com/user-attachments/assets/8d68f732-c297-4bff-a510-e57cad0f4123)
